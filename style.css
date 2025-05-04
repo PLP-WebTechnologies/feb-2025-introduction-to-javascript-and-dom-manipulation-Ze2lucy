@@ -18,3 +18,12 @@ main {
 section {
   margin-bottom: 30px;
 }
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blueviolet;
+}
