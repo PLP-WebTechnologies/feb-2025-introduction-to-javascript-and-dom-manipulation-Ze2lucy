@@ -11,3 +11,10 @@ header {
   text-align: center;
   padding: 20px;
 }
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
